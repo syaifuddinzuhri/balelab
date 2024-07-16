@@ -47,6 +47,12 @@ $ yarn run start:prod
 
 ## Test
 
+Link API Documentation 
+
+https://app.swaggerhub.com/apis/MOCHAMMADSYAIFUDDINZ/bale-lab_indonesia/1.0.0
+
+## Test
+
 ```bash
 # unit tests
 $ yarn run test
